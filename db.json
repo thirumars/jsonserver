@@ -1,11 +1,11 @@
 {
   "consent": [
     {
-      "id": 1,
+      "transactionId": 1,
       "status": "Accepted"
     },
     {
-      "id": 2,
+      "transactionId": 2,
       "status": "Denied"
     }
   ]
